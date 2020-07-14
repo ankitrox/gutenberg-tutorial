@@ -1,0 +1,14 @@
+{
+    "name": "agade/gutenberg-tutorial",
+    "type": "wp-plugin",
+    "authors": [
+        {
+            "name": "Ankit Gade",
+            "email": "contact@sharethingz.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "wp-coding-standards/wpcs": "2.1.1"
+    }
+}
