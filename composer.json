@@ -10,5 +10,10 @@
     "require": {},
     "require-dev": {
         "wp-coding-standards/wpcs": "2.1.1"
+    },
+    "autoload": {
+        "psr-4": {
+          "WpGuruDev\\Gutenberg\\": "includes/"
+        }
     }
 }
